@@ -1,0 +1,2 @@
+# thuhn
+learn data science
